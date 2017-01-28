@@ -1,0 +1,2 @@
+# QVC-Data-Analysis
+Performed Statistical Analysis and implemented data mining techniques on large business data sets, to identify patterns. Analyzed the transactional, customer, product and forum data, to determine correlations. Developed Predictive Model using Regression analysis to predict the future sales of products. Text Mining analysis was done on the user comments to understand the user opinion on the products
